@@ -34,8 +34,8 @@ STEP4: Terminate the program.
 
 ### PROGRAM
 ```python
-# Reg.No-212222020008
-# Name-Harini B
+# Reg.No-212222020020
+# Name-Reema praba V
 # Write your code here
 
 a = 12
@@ -64,8 +64,8 @@ STEP10: End
 
 ### PROGRAM
 ```python
-# Reg.No-212222020008
-#Name-Harini B
+# Reg.No-212222020020
+#Name-Reema praba V
 #Write your code here
 a=int(input())
 b=int(input())
@@ -94,8 +94,8 @@ STEP10: End
 
 ### PROGRAM
 ```python
-# Reg.No-212222020008
-# Name-Harini B
+# Reg.No-212222020020
+# Name-Reema praba V
 # Write your code here
 
 a=int(input())
@@ -127,8 +127,8 @@ STEP5: Terminate the program.
 
 ### PROGRAM
 ```python
-# Reg.No-212222020008
-# Name-Harini B
+# Reg.No-212222020020
+# Name-Reema praba V
 # Write your code here
 
 a = int(input())
