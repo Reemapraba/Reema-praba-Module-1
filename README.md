@@ -1,36 +1,28 @@
 # Reema-praba-Module-1
-ExNo: 1.1 - Python Basics - Printing Multiline String
-AIM: To Create a python program to print the string in multiline.
-ALGORITHM
-STEP1: Define a string to be printed in a single line. STEP2: Define a string that will be split into multiple lines with indentation on the second line. STEP3: Use the print() function to display the strings. STEP4: Terminate the program.
+# Reema-Praba - Module 1: Python Basics
 
-PROGRAM
-a=("I am a string literal\n... has more than one\n... line\n....placed inside triple single quotes")
-b=("I am a string literal\n... has more than one\n... line\n....placed inside triple double quotes")
+This repository contains basic Python programs covering introductory concepts like string printing, data types, expressions, conditional statements, and bitwise operations.
+
+---
+
+## 🔹 ExNo: 1.1 – Printing Multiline String
+
+**Aim:**  
+To create a Python program to print a string in multiline format.
+
+**Algorithm:**
+1. Define a string in a single line.
+2. Define another string split into multiple lines using `\n`.
+3. Use the `print()` function to display both strings.
+4. Terminate the program.
+
+**Program:**
+```python
+a = ("I am a string literal\n... has more than one\n... line\n....placed inside triple single quotes")
+b = ("I am a string literal\n... has more than one\n... line\n....placed inside triple double quotes")
 print(a)
 print(b)
-Output
-image
 
-RESULT:Thus the python program to print the string in multiline was executed successfully.
-ExNo: 1.2 - Data Types – Printing Integer Literals
-AIM: To write a Python program to print the following integer literals: 12.
-ALGORITHM
-STEP1: Begin the program.
-STEP2: Initialize the integer literals 12
-STEP3: Use the print() function to display the numbers 12 STEP4: Terminate the program.
-
-PROGRAM
-# Reg.No-212222020008
-# Name-Harini B
-# Write your code here
-
-a = 12
-print(a)
-OUTPUT
-image
-
-RESULT: Thus the Python program to print the following integer literals: 12 was executed sucessfully.
 ExNo: 1.3 -Varibles and Expressions, Operators - python program for bitwise shift operators on the user given integers
 AIM: To Write a python program for bitwise shift operators on the user given integers
 ALGORITHM
